@@ -1135,6 +1135,7 @@ footer {
   .banner__img {
     width: 450px;
     right: 0;
+    top: 20%;
   }
   .cards__title {
     font-size: 20px;
@@ -1211,6 +1212,7 @@ footer {
   .banner__img {
     width: 90%;
     right: 5%;
+    top: 40px;
   }
   .banner__content img {
     display: block;
