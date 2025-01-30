@@ -452,11 +452,11 @@ header .container {
   position: absolute;
   top: 40px;
   right: 250px;
+  aspect-ratio: 2803/1419;
 }
 .banner__img img {
   width: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
+  height: 100%;
   display: block;
 }
 
